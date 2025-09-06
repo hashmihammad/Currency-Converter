@@ -1,24 +1,24 @@
-# 💱 Currency Converter (Terminal-Based)
+# Currency Converter (Terminal-Based)
 
 This is a simple terminal-based currency converter developed in Python. It allows users to convert an amount from one currency to another using predefined exchange rates.
 
-## 📌 Features
+## Features
 
 - Supports 10 popular global currencies
 - Real-time conversion (based on hardcoded rates)
 - User-friendly terminal interface
 - Displays both symbols and full names of currencies
 
-## 🖥️ How It Works
+## How It Works
 
 1. The script displays a list of available currencies.
 2. You input:
    - The currency to convert **from**
    - The currency to convert **to**
    - The amount to convert
-3. The script calculates and displays the converted amount with appropriate currency symbols.
+3. The script calculates and displays the converted amount with the appropriate currency symbols.
 
-## 🧮 Supported Currencies
+## Supported Currencies
 
 - USD – US Dollar
 - EUR – Euro
@@ -31,7 +31,16 @@ This is a simple terminal-based currency converter developed in Python. It allow
 - KRW – South Korean Won
 - JPY – Japanese Yen
 
-## 🔧 How to Run
+## How to Run
 
 ```bash
 python currency_converter.py
+````
+
+## Author
+
+**Syed Hammad Hashmi**
+
+[GitHub Profile](https://github.com/hashmihammad)
+
+[LinkedIn](http://linkedin.com/in/syed-hammad-hashmi)
